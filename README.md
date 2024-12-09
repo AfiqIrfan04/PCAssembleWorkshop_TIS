@@ -37,12 +37,13 @@ Steps to assemble a pc
 ![photo_2024-12-09_21-11-18](https://github.com/user-attachments/assets/a2edd7d2-6f0a-40ad-b6c3-514486803081)
 
 I knew very little about computer hardware before the computer assembly workshop. I was able to close the knowledge gaps and gain a better understanding of how a computer operates thanks to this class. Thank you so much to everyone who helped make this workshop a success. PS: Take a look at the images below.  
+
 ![WhatsApp Image 2024-11-06 at 10 39 39_43b8d1fd](https://github.com/user-attachments/assets/3f83e515-d47d-4395-b95d-5035a7f0ae2b)
->>>After Assemble Back<<<
+After Assemble Back
 ![WhatsApp Image 2024-11-06 at 10 40 28_72ab3f07](https://github.com/user-attachments/assets/de92a023-41ab-4223-9967-13d3a121f9b6)
 Testing.....Testing
 ![WhatsApp Image 2024-11-06 at 10 40 28_597d7a46](https://github.com/user-attachments/assets/cf8fdaa1-fe38-4098-9edd-d8f94b9cd106)
 It works <3
 ![WhatsApp Image 2024-11-06 at 10 39 20_eb8b0fcd](https://github.com/user-attachments/assets/d12bb3c4-28ab-4182-ac02-b6dda2ac2770)
->>>"United we stand, divided we fall"<<<
->>> Thank You <3 <<<<
+"United we stand, divided we fall"
+ Thank You <3 
